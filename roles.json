@@ -2,7 +2,6 @@
   { "category": "Bingo Ranks", "name": "Bingo Rank I-IV", "desc": "Bingo Rank (Color based).", "color": 5635925 },
   { "category": "RNG Based", "name": "RNG Carried", "desc": "Got an RNG Drop. Exp Share Core doesn’t count.", "color": 16733695 },
   { "category": "RNG Based", "name": "Lucky Gamer", "desc": "Got 3 RNG Drops (All Bingos).", "color": 16733695 },
-  { "category": "RNG Based", "name": "RNG Test", "desc": "RNG something (All Bingos).", "color": 16733695 },
   { "category": "Community Based", "name": "Top 1", "desc": "Player who has gotten #1 in a community goal.", "color": 16755200 },
   { "category": "Community Based", "name": "Community Grinder", "desc": "Top #100 in every community goal.", "color": 16755200 },
   { "category": "Sweat or Speedrunner?", "name": "Sweat", "desc": "10 hours or less in playtime. (Bingo #7 doesn't count)", "color": 5636095 },
