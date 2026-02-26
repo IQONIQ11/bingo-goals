@@ -1,20 +1,20 @@
-Fisherman|Wear 4 pieces of the Angler Armor Set.
-Tropical Fish Collector|Reach 400 Tropical Fish Collection.
-Rock Solid|Equip a Common or higher tiered Rock Pet.
-Fashionable|Wear 18 unique Armor Sets.
-Emerald Treasure|Unlock an Emerald Dungeon Chest.
-Gold Ingot Collector|Reach 60,000 Gold Ingot Collection.
-Slayer|Reach Level 3 for any Slayer boss.
-Sponge Collector|Reach 900 Sponge Collection.
-Powder Collector|Collect 50,000 Mithril Powder.
+Collecting Data|Reach Bestiary Milestone 3.
+Healthy|Reach 1,000 Health.
+Bedazzled|Equip 7 unique Accessories.
+Collector|Get 10 Collections to at least tier 7.
+Powder Collector|Collect 25,000 Mithril Powder.
+Diamond Collector|Reach 40,000 Diamond Collection.
+Pet Hoarder|Obtain 3 unique Pets.
+Amber Crystal|Obtain an Amber Crystal in the Crystal Hollows.
+Fashionable|Wear 15 unique Armor Sets.
+Carry-On|Craft a Small Backpack.
+Friend Of The Seas|Equip an Uncommon or higher tiered Dolphin Pet.
+Strongman|Reach 120 Strength.
 New Savings|Craft a Piggy Bank.
-Strongman|Reach 160 Strength.
-Lumberjack|Obtain level 5 in the Foraging Skill.
-Critical|Reach 100% Crit Damage.
-Exterminator|Kill 10,000 mobs.
-Collecting Data|Reach Bestiary Milestone 5.
-Sea Summoner|Reach 30% Sea Creature Chance.
+Brewer|Obtain level 16 in the Alchemy Skill.
+A Lost Cause|Kill a Lost Adventurer.
+Slayer|Reach level 3 for any Slayer boss.
 Experienced|Obtain a Grand Experience Bottle.
-Esteemed Enchanter|Obtain a Level VI Enchanted Book.
-Healthy|Reach 250 Health.
-King Of The... Seas?|Fish up a Carrot King.
+Sand Collector|Reach 47,500 Sand Collection.
+Commission Master|Complete 4 Commissions in the Dwarven Mines, Crystal Hollows or Glacite Tunnels.
+Prismarine Crystals Collector|Reach 1,500 Prismarine Crystals Collection.
