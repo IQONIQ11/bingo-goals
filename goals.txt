@@ -8,3 +8,5 @@ Frankenstein|Wear 4 armor pieces, all of different rarities
 A Wrinkle in Time|Talk to the Wizard in the Hub, The Rift, and The Garden
 Beethoven|Complete Hymn to the Joy on Melody's Harp hitting only 1 correct note.
 Fantastic Beasts and Where to Find Them|Kill mobs from 20 different Mob Types.
+Crime and Punishment|Kill all 5 members of Team Treasurite.
+The Day of the Triffids|Get killed by an Ent.
