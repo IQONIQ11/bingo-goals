@@ -1,20 +1,10 @@
-Collecting Data|Reach Bestiary Milestone 3.
-Healthy|Reach 1,000 Health.
-Bedazzled|Equip 7 unique Accessories.
-Collector|Get 10 Collections to at least tier 7.
-Powder Collector|Collect 25,000 Mithril Powder.
-Diamond Collector|Reach 40,000 Diamond Collection.
-Pet Hoarder|Obtain 3 unique Pets.
-Amber Crystal|Obtain an Amber Crystal in the Crystal Hollows.
-Fashionable|Wear 15 unique Armor Sets.
-Carry-On|Craft a Small Backpack.
-Friend Of The Seas|Equip an Uncommon or higher tiered Dolphin Pet.
-Strongman|Reach 120 Strength.
-New Savings|Craft a Piggy Bank.
-Brewer|Obtain level 16 in the Alchemy Skill.
-A Lost Cause|Kill a Lost Adventurer.
-Slayer|Reach level 3 for any Slayer boss.
-Experienced|Obtain a Grand Experience Bottle.
-Sand Collector|Reach 47,500 Sand Collection.
-Commission Master|Complete 4 Commissions in the Dwarven Mines, Crystal Hollows or Glacite Tunnels.
-Prismarine Crystals Collector|Reach 1,500 Prismarine Crystals Collection.
+Wuthering Heights|Kill a mob with ☠ Wither typing by knocking it from a height.
+The Call of the Wild|Receive a call on your Abiphone while in the Wilderness.
+Gladiator|Enter Combat while in the Colosseum
+Twenty Thousand Leagues Under the Sea|Reach the Jade Dragon room in Murkwater Looh.
+The Lord of the Rings: Dispose of the Eternal Flame Ring in a particular structure found within the Magma Fields.
+Animal Farm|Place down one of each Husbandry type minion on your Private Island.
+Fantastic Beasts and Where to Find Them|Confront Jake in his lab with Beth.
+Frankenstein|Wear 4 armor pieces, all of different rarities
+A Wrinkle in Time|Talk to the Wizard in the Hub, The Rift, and The Garden
+Beethoven|Complete Hymn to the Joy on Melody's Harp hitting only 1 correct note.
