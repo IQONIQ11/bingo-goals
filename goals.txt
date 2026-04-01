@@ -4,7 +4,6 @@ Gladiator|Enter Combat while in the Colosseum
 Twenty Thousand Leagues Under the Sea|Reach the Jade Dragon room in Murkwater Looh.
 The Lord of the Rings: Dispose of the Eternal Flame Ring in a particular structure found within the Magma Fields.
 Animal Farm|Place down one of each Husbandry type minion on your Private Island.
-Fantastic Beasts and Where to Find Them|Confront Jake in his lab with Beth.
 Frankenstein|Wear 4 armor pieces, all of different rarities
 A Wrinkle in Time|Talk to the Wizard in the Hub, The Rift, and The Garden
 Beethoven|Complete Hymn to the Joy on Melody's Harp hitting only 1 correct note.
