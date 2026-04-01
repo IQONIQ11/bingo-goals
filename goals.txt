@@ -7,3 +7,4 @@ Animal Farm|Place down one of each Husbandry type minion on your Private Island.
 Frankenstein|Wear 4 armor pieces, all of different rarities
 A Wrinkle in Time|Talk to the Wizard in the Hub, The Rift, and The Garden
 Beethoven|Complete Hymn to the Joy on Melody's Harp hitting only 1 correct note.
+Fantastic Beasts and Where to Find Them|Kill mobs from 20 different Mob Types.
