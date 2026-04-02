@@ -10,3 +10,6 @@ Beethoven|Complete Hymn to the Joy on Melody's Harp hitting only 1 correct note.
 Fantastic Beasts and Where to Find Them|Kill mobs from 20 different Mob Types.
 Crime and Punishment|Kill all 5 members of Team Treasurite.
 The Day of the Triffids|Get killed by an Ent.
+Se7en|Have 7 different types of Pest in The Garden at once.
+Vanity Fair|Stare at your reflection in the Mirrorverse for 30 seconds without moving.
+A Whack on the Side of the Head|Hit a Sven Packmaster with a stick.
