@@ -1,20 +1,20 @@
-Wuthering Heights|Kill a mob with ☠ Wither typing by knocking it from a height.
-The Call of the Wild|Receive a call on your Abiphone while in the Wilderness.
-Gladiator|Enter Combat while in the Colosseum
-Twenty Thousand Leagues Under the Sea|Reach the Jade Dragon room in Murkwater Looh.
-The Lord of the Rings|Dispose of the Eternal Flame Ring in a particular structure found within the Magma Fields.
-Animal Farm|Place down one of each Husbandry type minion on your Private Island.
-Frankenstein|Wear 4 armor pieces, all of different rarities
-A Wrinkle in Time|Talk to the Wizard in the Hub, The Rift, and The Garden
-Beethoven|Complete Hymn to the Joy on Melody's Harp hitting only 1 correct note.
-Fantastic Beasts and Where to Find Them|Kill mobs from 20 different Mob Types.
-Crime and Punishment|Kill all 5 members of Team Treasurite.
-The Day of the Triffids|Get killed by an Ent.
-Se7en|Have 7 different types of Pest in The Garden at once.
-Vanity Fair|Stare at your reflection in the Mirrorverse for 30 seconds without moving.
-A Whack on the Side of the Head|Hit a Sven Packmaster with a stick.
-***** ****|Be defeated by both Rollim and Kaus.
-Joker|Trigger the Ridiculous reforge bonus while at a meeting of the Cult of the Fallen Star.
-The Old Man and the Sea|Talk to Old Man Garry while holding a Seagull Shard
-The Mad Hatter|Drink a Tea-Infused potion while wearing a Rabbit Hat and any Tuxedo Set.
-The Wailing|Use a Jukebox to kill a Banshee.
+Search And Rescue|Help Fetchur find his item.
+Pufferfish Collector|Reach 4,500 Pufferfish Collection.
+A Best Friend|Craft any pet.
+Enchanter|Obtain level 20 in the Enchanting Skill.
+Love Is All Around|Obtain a Mediocre Ring of Love.
+Dwarves Defender|Kill 25 Goblins during a Goblin Raid in the Dwarven Mines.
+Skill Average|Reach a non-cosmetic Skill Average of 10.
+Rotten Flesh Collector|Reach 47,500 Rotten Flesh Collection.
+Slayer|Reach Level 4 for any Slayer boss.
+Emerald Treasure|Unlock an Emerald Dungeon Chest.
+Weird Flex|Gain 5 ❁ Strength from a Training Weight.
+Rock Solid|Equip a Common or higher tiered Rock Pet.
+Diversity|Unlock 40 unique Collections.
+Minion Machine|Obtain 60 unique Minions.
+Sightseer|Visit 7 different public islands.
+Petsitter|Upgrade a pet with Kat.
+Strange Eggs|Spawn a Golden Goblin from a Goblin Egg.
+Oak Log Collector|Reach 100,000 Oak Log Collection.
+I Am Speed|Reach 200 ✦ Speed.
+Collector|Get 10 Collections to at least tier 7.
