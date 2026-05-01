@@ -1,2 +1,2 @@
-Brewer | Obtain level 16 in the Alchemy Skill.\n\nFor this goal, you need to obtain 97,425 XP. Use Enchanted Gold or Sugar.
-Gardener | Reach Farming 20.\n\nFarm in the garden.
+Emerald Treasure|Unlock an Emerald Dungeon Chest.|For this goal, you need to open a emerald chest at the end of the dungeon run, this chest costs 100,000 you can do this with doing it in floor 1 or 2.
+Rock Solid|Equip a Common or higher tiered Rock Pet.|For this goal, you will need to mine! Common rock pet is 2,500 Ores Mined to obtain the pet.
