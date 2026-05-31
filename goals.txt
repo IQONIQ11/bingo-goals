@@ -1,20 +1,20 @@
-Search And Rescue|Help Fetchur find his item.
-Pufferfish Collector|Reach 4,500 Pufferfish Collection.
-A Best Friend|Craft any pet.
-Enchanter|Obtain level 20 in the Enchanting Skill.
-Love Is All Around|Obtain a Mediocre Ring of Love.
-Dwarves Defender|Kill 25 Goblins during a Goblin Raid in the Dwarven Mines.
-Skill Average|Reach a non-cosmetic Skill Average of 10.
-Rotten Flesh Collector|Reach 47,500 Rotten Flesh Collection.
-Slayer|Reach Level 4 for any Slayer boss.
-Emerald Treasure|Unlock an Emerald Dungeon Chest.
-Weird Flex|Gain 5 ❁ Strength from a Training Weight.
 Rock Solid|Equip a Common or higher tiered Rock Pet.
+Cocoa Beans Collector|Reach 230,000 Cocoa Beans Collection.
+Collecting Data|Reach Bestiary Milestone 3.
+Warrior|Obtain level 20 in the Combat Skill.
+The Green Gold|Craft an Emerald Ring.
+Obsidian Collector|Reach 25,000 Obsidian Collection.
+Experienced|Obtain a Grand Experience Bottle.
+Tropical Fish Collector|Reach 300 Tropical Fish Collection.
+Pet Hoarder|Obtain 9 unique Pets.
+Taking Flight|Consume a Magical Mushroom Soup.
+Podium Position|Obtain a Silver or higher Medal in Jacob's Farming Contest.
+Exterminator|Kill 2,500 mobs.
 Diversity|Unlock 40 unique Collections.
-Minion Machine|Obtain 60 unique Minions.
-Sightseer|Visit 7 different public islands.
-Petsitter|Upgrade a pet with Kat.
-Strange Eggs|Spawn a Golden Goblin from a Goblin Egg.
-Oak Log Collector|Reach 100,000 Oak Log Collection.
-I Am Speed|Reach 200 ✦ Speed.
-Collector|Get 10 Collections to at least tier 7.
+Fashionable|Wear 15 unique Armor Sets.
+Critical|Reach 100% Crit Damage.
+Slayer|Reach Level 3 for any Slayer boss.
+Emerald Treasure|Unlock an Emerald Dungeon Chest.
+Pair Up!|Find 5 Pairs in the Experimentation Table.
+Cat|Obtain a Cat Talisman.
+Experienced|Obtain a Titanic Experience Bottle.
