@@ -1,2 +1,20 @@
+Rock Solid|Equip a Common or higher tiered Rock Pet.|For this goal, you will need to mine! Common rock pet is 2,500 Ores Mined to obtain the pet, click for ores. You can check progress by using /petprogress in bot commands in our server
+Cocoa Beans Collector|Reach 230,000 Cocoa Beans Collection.|For this goal, you will need to get Garden 8, which is 4,650 Total Garden XP, for this you will want to get seeds, carrots, potatoes and sugar cane. These will be the crops you will plant on your plot to get to the amount you need. 
+Collecting Data|Reach Bestiary Milestone 3.|For this goal, you will need to get 30 Bestiary Levels, as each bestiary level is 10. Remember to talk to Bramass Beastslayer who is located in the Spider's Den.
+Warrior|Obtain level 20 in the Combat Skill.|For this goal you need to get combat 20, which is a total of 522,425 combat xp.
+The Green Gold|Craft an Emerald Ring.
+Obsidian Collector|Reach 25,000 Obsidian Collection.|For this goal, you should mine Obsidian Nodes in the end. They have a 34% chance to drop 1 Enchanted Obsidian
+Experienced|Obtain a Grand Experience Bottle.|For this goal, you will need to get a Grand Experience Bottle. The ways to get this is from making it, obtaining it from fishing, obtained from Experimentation Table or obtaining it from Ender Nodes. 
+Tropical Fish Collector|Reach 300 Tropical Fish Collection.|For this goal, you should get fishing minions. 
+Pet Hoarder|Obtain 9 unique Pets.|For this goal, you should do the following pets: Bingo, Grandma Wolf, Jerry, Horse, Silverfish, Chicken, Zombie, Bee, Owl
+Taking Flight|Consume a Magical Mushroom Soup.|For this goal, you need to get 1 redstone, 1 glowstone, (buy a glowstone block from the Builder, 1 bowl, 1 red mushroom and 1 brown mushroom. You need 1k mushroom collection for this. Then go to the Mushroom Desert and farm the mushroom blocks. 
+Podium Position|Obtain a Silver or higher Medal in Jacob's Farming Contest.For this goal, you should use garden for this. You will want to get Advanced Gardening Hoe which you need 25 cooper, for this you will need to talk to Jotraeline Greatforge they are in the forge in Dwarven Mines. They will ask for 2-3 compost and will give you 30 cooper each time. (doing this on garden will help with cocoa later on if you do it without minions!)
+Exterminator|Kill 2,500 mobs.|For this goal, you can do either 1. Kill Endermen (For Community Goal), 2. Kill Spiders, 3. Kill Barn Animals using Super Cleaver and remember to put Cleave enchantment on it.
+Diversity|Unlock 40 unique Collections.|For this goal, you will need to unlock 40 different collections
+Fashionable|Wear 15 unique Armor Sets.|For this goal, you should make the following armor sets: Leather, Chainmail, Iron, Gold, Diamond, Mushroom, Farm Suit, Pumpkin Armor, Cactus Armor, Leaflet Armor, Angler Armor, Rosetta's Armor, Squire Armor, Celeste Set, Mercenary Armor,
+Critical|Reach 100% Crit Damage.|For this goal, you should obtain it from a god splash.
+Slayer|Reach Level 3 for any Slayer boss.|For this goal, you need to do a T1, a T2 & 2 T3 Revenant Horror. If you want to do  this goal without having to ask for help you should do the following Tiers: a T1 & 9 T2s.
 Emerald Treasure|Unlock an Emerald Dungeon Chest.|For this goal, you need to open a emerald chest at the end of the dungeon run, this chest costs 100,000 you can do this with doing it in floor 1 or 2.
-Rock Solid|Equip a Common or higher tiered Rock Pet.|For this goal, you will need to mine! Common rock pet is 2,500 Ores Mined to obtain the pet.
+Pair Up!|Find 5 Pairs in the Experimentation Table.|For this goal, you will need to make a Experimentation Table which is made with a bottle and 8 oak wood. After this place the table on your island and do the main experiment and try get 5 pairs. If you don't get it on the first try you have tomorrow!
+Cat|Obtain a Cat Talisman.|For this goal, you will need to obtain the Cat Talisman. Which is from Guildford after completing 4/4 modes of any race in the Dungeon Hub. The easiest race is Crystal Core with No Abilities, No runback.
+Experienced|Obtain a Titanic Experience Bottle.|For this goal, you will need to get a Titanic  Experience Bottle. The ways to get this is from making it, obtaining it from fishing, obtained from Experimentation Table or obtaining it from Ender Nodes. 
