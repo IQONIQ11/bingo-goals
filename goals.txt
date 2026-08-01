@@ -1,20 +1,20 @@
-Rock Solid|Equip a Common or higher tiered Rock Pet.
-Cocoa Beans Collector|Reach 230,000 Cocoa Beans Collection.
-Collecting Data|Reach Bestiary Milestone 3.
-Warrior|Obtain level 20 in the Combat Skill.
-The Green Gold|Craft an Emerald Ring.
-Obsidian Collector|Reach 25,000 Obsidian Collection.
+Strongman|Reach 120  Strength.
+Gold Ingot Collector|Reach 72,500 Gold Ingot Collection.
+Setting a Trap|Kill a Trapper Animal.
+Enchanter|Obtain level 20 in the Enchanting Skill.
 Experienced|Obtain a Grand Experience Bottle.
-Tropical Fish Collector|Reach 300 Tropical Fish Collection.
-Pet Hoarder|Obtain 9 unique Pets.
-Taking Flight|Consume a Magical Mushroom Soup.
-Podium Position|Obtain a Silver or higher Medal in Jacob's Farming Contest.
-Exterminator|Kill 2,500 mobs.
-Diversity|Unlock 40 unique Collections.
+Potato Collector|Reach 200,000 Potato Collection.
+Strange Eggs|Spawn a Golden Goblin from a Goblin Egg.
+Weird Flex|Gain 5  Strength from a Training Weight.
 Fashionable|Wear 15 unique Armor Sets.
-Critical|Reach 100% Crit Damage.
-Slayer|Reach Level 3 for any Slayer boss.
-Emerald Treasure|Unlock an Emerald Dungeon Chest.
-Pair Up!|Find 5 Pairs in the Experimentation Table.
-Cat|Obtain a Cat Talisman.
-Experienced|Obtain a Titanic Experience Bottle.
+Diversity|Unlock 40 unique Collections.
+Mushroom Collector|Reach 40,000 Mushroom Collection.
+Bedazzled|Equip 7 unique Accessories.
+Potatorific|Craft a Hot Potato Book.
+Skill Average|Reach a non-cosmetic Skill Average of 14.
+Powder Collector|Collect 25,000 Mithril Powder.
+Carry-On|Craft a Small Backpack.
+Fairy Finder|Obtain 25 Fairy Souls.
+Battle-Ready|Wear 4 pieces of Equipment.
+Slayer|Reach Level 2 for any Slayer boss.
+Taking Flight|Consume a Mystical Mushroom Soup.
