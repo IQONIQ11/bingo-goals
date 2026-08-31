@@ -1,20 +1,20 @@
-Strongman|Reach 120  Strength.
-Gold Ingot Collector|Reach 72,500 Gold Ingot Collection.
-Setting a Trap|Kill a Trapper Animal.
-Enchanter|Obtain level 20 in the Enchanting Skill.
-Experienced|Obtain a Grand Experience Bottle.
-Potato Collector|Reach 200,000 Potato Collection.
+Fairy Finder|Obtain 10 Fairy Souls.
+Lapis Lazuli Collector|Reach 165,000 Lapis Lazuli Collection.
+Lapis Warrior|Wear 4 pieces of the Lapis Armor Set.
+Divan's Chance|Place all 5 crystals in the Nucleus in the Crystal Hollows.
+Oak Log Collector|Reach 70,000 Oak Log Collection.
+Jade Crystal|Obtain a Jade Crystal in the Crystal Hollows.
+Pet Hoarder|Obtain 3 unique Pets.
+Obsidian Collector|Reach 25,000 Obsidian Collection.
+Hard Worker|Obtain Any Tier 11 Minion.
+Petsitter|Upgrade a pet with Kat.
+Lynx|Obtain a Lynx Talisman.
+Collecting Data|Reach Bestiary Milestone 3.
+Love Is All Around|Obtain a Mediocre Ring of Love.
+Zoop!|Craft an Aspect of the End.
+Commission Master|Complete 8 Commissions in the Dwarven Mines, Crystal Hollows, or Glacite Tunnels.
 Strange Eggs|Spawn a Golden Goblin from a Goblin Egg.
-Weird Flex|Gain 5  Strength from a Training Weight.
-Fashionable|Wear 15 unique Armor Sets.
-Diversity|Unlock 40 unique Collections.
-Mushroom Collector|Reach 40,000 Mushroom Collection.
-Bedazzled|Equip 7 unique Accessories.
-Potatorific|Craft a Hot Potato Book.
-Skill Average|Reach a non-cosmetic Skill Average of 14.
-Powder Collector|Collect 25,000 Mithril Powder.
-Carry-On|Craft a Small Backpack.
-Fairy Finder|Obtain 25 Fairy Souls.
-Battle-Ready|Wear 4 pieces of Equipment.
-Slayer|Reach Level 2 for any Slayer boss.
-Taking Flight|Consume a Mystical Mushroom Soup.
+Sea Summoner|Reach 30%  Sea Creature Chance.
+Ender Menace|Kill 10 Endermen in 8 seconds.
+Minion Machine|Obtain 15 unique Minions.
+Enchanter|Obtain level 20 in the Enchanting Skill.
