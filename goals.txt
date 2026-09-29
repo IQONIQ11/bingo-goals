@@ -1,20 +1,20 @@
-Fairy Finder|Obtain 10 Fairy Souls.
-Lapis Lazuli Collector|Reach 165,000 Lapis Lazuli Collection.
-Lapis Warrior|Wear 4 pieces of the Lapis Armor Set.
-Divan's Chance|Place all 5 crystals in the Nucleus in the Crystal Hollows.
-Oak Log Collector|Reach 70,000 Oak Log Collection.
-Jade Crystal|Obtain a Jade Crystal in the Crystal Hollows.
-Pet Hoarder|Obtain 3 unique Pets.
-Obsidian Collector|Reach 25,000 Obsidian Collection.
-Hard Worker|Obtain Any Tier 11 Minion.
-Petsitter|Upgrade a pet with Kat.
-Lynx|Obtain a Lynx Talisman.
-Collecting Data|Reach Bestiary Milestone 3.
+Rock Solid|Equip a Common or higher tiered Rock Pet.
+Gunpowder Collector|Reach 55,000 Gunpowder Collection.
+Strongman|Reach 120  Strength.
+Carry-On|Craft a Large Backpack.
+Sightseer|Visit 7 different public islands.
+Clay Ball Collector|Reach 150,000 Clay Ball Collection.
+Skill Average|Reach a non-cosmetic Skill Average of 10.
+Pair Up!|Find 5 Pairs in the Experimentation Table.
+Cheetah|Obtain a Cheetah Talisman.
+Warrior|Obtain level 10 in the Combat Skill.
+Cocoa Beans Collector|Reach 185,000 Cocoa Beans Collection.
+Commission Master|Complete 4 Commissions in the Dwarven Mines, Crystal Hollows, or Glacite Tunnels.
+A Lost Cause|Kill a Lost Adventurer.
+Powder Collector|Collect 50,000 Mithril Powder.
 Love Is All Around|Obtain a Mediocre Ring of Love.
-Zoop!|Craft an Aspect of the End.
-Commission Master|Complete 8 Commissions in the Dwarven Mines, Crystal Hollows, or Glacite Tunnels.
-Strange Eggs|Spawn a Golden Goblin from a Goblin Egg.
-Sea Summoner|Reach 30%  Sea Creature Chance.
-Ender Menace|Kill 10 Endermen in 8 seconds.
-Minion Machine|Obtain 15 unique Minions.
-Enchanter|Obtain level 20 in the Enchanting Skill.
+Trouble is Brewing...|Brew any level IV or higher potion.
+Fashionable|Wear 7 unique Armor Sets.
+Podium Position|Obtain a Silver or higher Medal in Jacob's Farming Contest.
+Titanic Reforger|Apply the Titanic reforge to an item.
+Divan's Chance|Place all 5 crystals in the Nucleus in the Crystal Hollows.
